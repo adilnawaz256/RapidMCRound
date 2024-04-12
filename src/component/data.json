@@ -8,7 +8,8 @@
         "weekEnding": "2024-01-07",
         "totalHour": 38,
         "submittedAt": "2024-01-10T09:15:00AM",
-        "status": "Pending"
+        "status": "Pending",
+        "position":"Python"
       },
       {
         "id":2,
@@ -18,7 +19,8 @@
         "weekEnding": "2024-01-07",
         "totalHour": 42,
         "submittedAt": "2024-01-10T10:00:00",
-        "status": "Submitted"
+        "status": "Submitted",
+        "position":"Web Developer"
       },
       {
         "id":3,
@@ -28,7 +30,8 @@
         "weekEnding": "2024-01-07",
         "totalHour": 45,
         "submittedAt": "2024-01-10T11:45:00",
-        "status": "Approved"
+        "status": "Approved",
+        "position":"Python"
       },
       {
         "id":4,
@@ -38,7 +41,8 @@
         "weekEnding": "2024-01-07",
         "totalHour": 37,
         "submittedAt": "2024-01-10T13:30:00",
-        "status": "Pending"
+        "status": "Pending",
+        "position":"Frontend"
       },
       {
         "id":5,
@@ -48,7 +52,8 @@
         "weekEnding": "2024-01-07",
         "totalHour": 40,
         "submittedAt": "2024-01-10T14:15:00",
-        "status": "Submitted"
+        "status": "Submitted",
+        "position":"backend"
       },
       {
         "id":6,
@@ -58,7 +63,8 @@
         "weekEnding": "2024-01-07",
         "totalHour": 48,
         "submittedAt": "2024-01-10T15:00:00",
-        "status": "Approved"
+        "status": "Approved",
+        "position":"AI & ML"
       },
       {
         "id":7,
@@ -68,7 +74,8 @@
         "weekEnding": "2024-01-07",
         "totalHour": 35,
         "submittedAt": "2024-01-10T16:45:00",
-        "status": "Submitted"
+        "status": "Submitted",
+        "position":"AI & ML"
       },
       {
         "id":8,
@@ -78,7 +85,8 @@
         "weekEnding": "2024-01-07",
         "totalHour": 43,
         "submittedAt": "2024-01-10T17:30:00",
-        "status": "Pending"
+        "status": "Pending",
+        "position":"Python"
       },
       {
         "id":9,
@@ -88,7 +96,8 @@
         "weekEnding": "2024-01-07",
         "totalHour": 39,
         "submittedAt": "2024-01-10T18:15:00",
-        "status": "Approved"
+        "status": "Approved",
+        "position":"backend"
       },
       {
         "id":10,
@@ -98,7 +107,8 @@
         "weekEnding": "2024-01-07",
         "totalHour": 36,
         "submittedAt": "2024-01-10T20:45:00",
-        "status": "Pending"
+        "status": "Pending",
+        "position":"Python"
       },
       {
         "id":11,
@@ -108,7 +118,8 @@
         "weekEnding": "2024-01-07",
         "totalHour": 44,
         "submittedAt": "2024-01-10T21:30:00",
-        "status": "Approved"
+        "status": "Approved",
+        "position":"AI & ML"
       },
       {
         "id":12,
@@ -118,7 +129,8 @@
         "weekEnding": "2024-01-07",
         "totalHour": 39,
         "submittedAt": "2024-01-10T22:15:00",
-        "status": "Submitted"
+        "status": "Submitted",
+        "position":"AI & ML"
       },
       {
         "id":13,
@@ -128,7 +140,8 @@
         "weekEnding": "2024-01-07",
         "totalHour": 46,
         "submittedAt": "2024-01-10T23:00:00",
-        "status": "Pending"
+        "status": "Pending",
+        "position":"backend"
       },
       {
         "id":14,
@@ -138,7 +151,8 @@
         "weekEnding": "2024-01-07",
         "totalHour": 37,
         "submittedAt": "2024-01-11T08:30:00",
-        "status": "Approved"
+        "status": "Approved",
+        "position":"backend"
       },
       {
         "id":15,
@@ -148,7 +162,8 @@
         "weekEnding": "2024-01-07",
         "totalHour": 42,
         "submittedAt": "2024-01-11T09:15:00",
-        "status": "Submitted"
+        "status": "Submitted",
+        "position":"Frontend"
       },
       {
         "id":16,
@@ -158,7 +173,8 @@
         "weekEnding": "2024-01-07",
         "totalHour": 38,
         "submittedAt": "2024-01-11T10:00:00",
-        "status": "Pending"
+        "status": "Pending",
+        "position":"R&D"
       },
       {
         "id":17,
@@ -168,7 +184,8 @@
         "weekEnding": "2024-01-07",
         "totalHour": 47,
         "submittedAt": "2024-01-11T11:45:00",
-        "status": "Approved"
+        "status": "Approved",
+        "position":"AI & ML"
       },
       {
         "id":18,
@@ -178,7 +195,8 @@
         "weekEnding": "2024-01-07",
         "totalHour": 34,
         "submittedAt": "2024-01-11T13:30:00",
-        "status": "Submitted"
+        "status": "Submitted",
+        "position":"backend"
       },
       {
         "id":19,
@@ -188,7 +206,8 @@
         "weekEnding": "2024-01-07",
         "totalHour": 40,
         "submittedAt": "2024-01-11T14:15:00",
-        "status": "Pending"
+        "status": "Pending",
+        "position":"Python"
       },
       {
         "id":20,
@@ -198,7 +217,8 @@
         "weekEnding": "2024-01-07",
         "totalHour": 39,
         "submittedAt": "2024-01-11T15:00:00",
-        "status": "Approved"
+        "status": "Approved",
+        "position":"backend"
       },
       {
         "id":21,
@@ -208,7 +228,8 @@
         "weekEnding": "2024-01-07",
         "totalHour": 41,
         "submittedAt": "2024-01-10T19:00:00",
-        "status": "Submitted"
+        "status": "Submitted",
+        "position":"AI & ML"
       },
       {
         "id":22,
@@ -218,7 +239,8 @@
         "weekEnding": "2024-01-07",
         "totalHour": 36,
         "submittedAt": "2024-01-10T20:45:00",
-        "status": "Pending"
+        "status": "Pending",
+        "position":"Python"
       },
       {
         "id":23,
@@ -228,7 +250,8 @@
         "weekEnding": "2024-01-07",
         "totalHour": 44,
         "submittedAt": "2024-01-10T21:30:00",
-        "status": "Approved"
+        "status": "Approved",
+        "position":"backend"
       },
       {
         "id":24,
@@ -238,7 +261,8 @@
         "weekEnding": "2024-01-07",
         "totalHour": 39,
         "submittedAt": "2024-01-10T18:15:00",
-        "status": "Approved"
+        "status": "Approved",
+        "position":"Frontend"
       },
       {
         "id":25,
@@ -248,7 +272,8 @@
         "weekEnding": "2024-01-07",
         "totalHour": 41,
         "submittedAt": "2024-01-10T19:00:00",
-        "status": "Submitted"
+        "status": "Submitted",
+        "position":"AI & ML"
       }
     ]
   }
