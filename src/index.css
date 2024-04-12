@@ -1,13 +1,172 @@
-body {
+*{
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  padding: 0;
+}
+.home{
+  width: 100%;
+  height: 100%;
+  display:flex;
+  flex-direction: row;
+}
+.dashboard{
+  border:1px solid black;
+  width:18% ;
+  display:flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.menuicon{
+  display:flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.dashd{
+  margin:10px
+}
+.dash1{
+  display:flex;
+  margin:10px
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.dash2{
+  display:flex;
+  margin:10px
+}
+.dash3{
+  display:flex;
+  margin:10px
+}
+.dash4{
+  display:flex;
+  margin:10px
+}
+.dash5{
+  display:flex;
+  margin:10px
+}
+.dash6{
+  display:flex;
+  margin:10px
+}
+
+.timesheet{
+  height:100%;
+  width:84% ;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+.header{
+  width:100% ;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.header h1{
+  padding: 20px 5px;
+}
+.bell{
+  fill: red;
+  
+}
+.usericon{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 30%;
+}
+.user{
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.bellicon{
+  margin-right: 20px;
+}
+
+.boxes{
+  width: 99%;
+  display: flex;
+  justify-content: space-between;
+  margin-left:1%;
+}
+.box{
+  height: 50px;
+  width:24% ;
+  border: 1px solid black;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 10px;
+  box-shadow: 1px;
+}
+.boxchild{
+  margin: 5px;
+}
+.boxicon{
+  margin: 10px;
+  margin-top: 20px;
+}
+.svg1{
+  fill: rgb(236, 66, 66);
+}
+.svg2{
+  fill:rgb(202, 202, 34);
+}
+.svg3{
+  fill: rgb(17, 173, 17);
+}
+.svg4{
+  fill: rgb(20, 20, 136);
+}
+
+.searchTimesheet{
+  width: 99%;
+  height: 60%;
+  margin-left:1%;
+  display: flex;
+  margin-top: 10px;
+}
+
+.alltimesheet{
+  width: 76%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.alltimesheet h2{
+  margin:0px 20px 20px 10px;
+}
+.tab{
+  margin-left: 20px;
+}
+table{
+
+}
+th{
+
+}
+td{
+
+}
+
+.searchbox{
+  width: 22%;
+  height: 440px;
+  border: 1px solid black;
+  overflow: hidden;
+}
+.search{
+  width: 100%;
+  height: 50px;
+  border: 1px solid black;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items:center
+}
+.anything{
+}
+.alluser{
+  
 }
