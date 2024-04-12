@@ -3,6 +3,16 @@
   padding: 0;
   box-sizing: border-box;
 }
+.headinghead {
+  font-size: 18px;
+  color: black;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  line-height: normal;
+  margin-left: 14px;
+  opacity: 0.8;
+}
 .home {
   width: 100vw;
   height: 100vh;
@@ -66,12 +76,18 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  width: 30%;
+  /* width: 30%; */
 }
 .user {
   display: flex;
   align-items: center;
   gap: 10px;
+}
+.name p {
+  font-size: 14px;
+}
+.name h3 {
+  font-size: 14px;
 }
 .bellicon {
   margin-right: 20px;
@@ -84,14 +100,15 @@
   margin-left: 1%;
 }
 .box {
-  height: 50px;
+  /* height: 50px; */
   width: 24%;
-  border: 1px solid black;
+  /* border: 1px solid black; */
   display: flex;
   justify-content: space-between;
   align-items: center;
   border-radius: 10px;
   box-shadow: 1px;
+  padding-left: 16px;
 }
 .boxchild {
   margin: 5px;
@@ -164,18 +181,41 @@ td {
   flex-direction: column;
   gap: 13px;
   margin-right: 14px;
-
 }
-.inpt{
+.inpt {
   width: 100%;
   margin-right: 14px;
   height: 32px;
   outline: none;
-  border: 1px solid #DDDDDD;
+  border: 1px solid #dddddd;
   border-radius: 12px;
   padding-left: 36px;
   font-size: 14px;
   color: black;
 }
 .alluser {
+}
+.alltimesheet h2 {
+  font-size: 16px;
+  line-height: normal;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  margin-left: 18px;
+}
+.boxtherealted{
+  width: 36px;
+  height: 29px;
+  background: white;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+
+}
+.MuiDataGrid-cellContent{
+  /* width: 100px;
+  height: 3px;
+  background-color: #FFF5E3; */
 }
